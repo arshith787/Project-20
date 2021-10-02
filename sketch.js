@@ -1,3 +1,4 @@
+
 var car, wall, speed, weight;
 
 function setup() {
